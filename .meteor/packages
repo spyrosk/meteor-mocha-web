@@ -7,4 +7,5 @@ insecure
 standard-app-packages
 coffeescript
 mike:mocha
+velocity:html-reporter
 
